@@ -1,0 +1,1 @@
+Ce projet met en place une architecture de microservices pour une application de gestion de produits. L'application est composée de plusieurs services indépendants, chacun ayant une responsabilité spécifique. Les services communiquent entre eux via une API Gateway, qui centralise les requêtes et les dirige vers les services appropriés.
